@@ -1,0 +1,15 @@
+h1, h2, p, span, ul {
+  margin: 10;
+}
+
+.main-text {
+  margin-top: 10px;
+}
+
+ul li {
+  margin-top: 17px;
+}
+
+span.icon {
+  margin-left: 17px;
+}
